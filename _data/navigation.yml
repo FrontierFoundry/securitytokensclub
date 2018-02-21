@@ -1,4 +1,6 @@
 # main links
 main:
+  - title: "Glossary"
+    url: /glossary
   - title: "Contribute notes & links on Github"
     url: https://github.com/finhaven/securitytokensclub

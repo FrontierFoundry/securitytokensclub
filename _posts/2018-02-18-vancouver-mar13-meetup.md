@@ -10,6 +10,7 @@ tags:
  - Kabuni
  - Profile Club
  - RallyChain
+excerpt: "Community meetup March 13th in Vancouver, hosted by Miller Thomson. Register on Picatic."
 ---
 
 [Register for tickets >](https://www.picatic.com/security-tokens-mar2018-vancouver)

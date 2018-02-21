@@ -8,6 +8,7 @@ tags:
  - Miller Thomson
  - Osler
  - Citizen Hex
+excerpt: "Community meetup February 13th in Toronto, hosted by Osler. Register on Picatic."
 ---
 
 [Register for tickets >](https://www.picatic.com/security-tokens-feb2018-toronto)
