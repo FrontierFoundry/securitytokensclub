@@ -30,6 +30,10 @@ Ethereum Improvement Proposal. Process hosted on Github where the community can 
 
 Bitcoin Improvement Proposal
 
+### GDPR
+
+The European Union's General Data Protection Regulation that is coming in to effect in 2018
+
 
 ## Canada
 
